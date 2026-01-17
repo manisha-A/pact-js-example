@@ -39,6 +39,6 @@
     ]
   },
   "devDependencies": {
-    "@pact-foundation/pact": "^9.1.0"
+    "@pact-foundation/pact": "^16.0.4"
   }
 }
